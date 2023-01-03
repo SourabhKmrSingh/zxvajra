@@ -1,0 +1,160 @@
+
+
+GUID - GUID20201208181845================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"U\\\/8q04H+aZPpOeghw+6xoulCPNYQNQn1NcDfF1PFPhhFgGP3eBaegj8GduzhkO8gnP8xBGSQLts38Byq6apO0ZWQDEY7dgXHtueU9UuHnI+ljPJeZSGkuHvv2NJclUhbdvM1oUUVOR5MbcD0rqCbAoqecixraxRsPDRsqAXtflyE7q7kNdAboxYZSN06uSK+Pl19bgdW83Y9bSx6Yij1evvRm7HCG2UdTq0C39r1YXwA5k06+owEILqNLCVAWCZuZ+cu5TvgF9XzKbHXI6UgfBh7LBHVo96N78HD3IgGR2lA2vc+OilqKUQ2WmZmxUzXEIAvnT9ARgaHxODoUsUSJyKgJiQwkREUWH+lFLoEJu5d0Wy8YeZe6g4m63TarEJGvGk8gus7p5Oq6DqSrUYFUBv\\\/EQsK63MRSJQLB76tqYhCb7FNkKelMmS6XU8W5deVzw6oGvA3gcPG7bsrVmX3XraEWfb60TMs+jN4+niBdVjCx+Et9UDaf2\\\/CAOUFyZ7SlfinME1+FL\\\/lIYY0WcMYr8kbLEfjCBRvC8jxp3QDrlhHiu\\\/Axg52ALizoVgYecVn+YWpx6+U8oZ8R5KrigJBpYQ3qNnip9pMEF++Qlb3Ry+EVZNyCoLUEnem7QxR8kkw5Sk4VZaFcZOhe4kH7Jg5t6\\\/XnMn3ceECrhuAdwSTTSo=\""
+
+
+
+GUID - GUID20201208181845================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201208181848================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"kUfQ5SvG85ztdw\\\/KOiAlF0bdxx8Ex1dhQXwEisqZoneRAZcmMHz3jodGiJoj9BH8u8mBLeqzcpnke8WW\\\/skoLS0o0KkeOq7wyKXHYemeU31BgoG3iJVAxg+pBkriT0W\\\/6vL55lZvip63C43zy7EHa6i3xtbaOXyKjJCr5O7PoQ0vUskhrXL9S6Q\\\/CKL+Va1nCaE8s16a\\\/KRFnadWMjTlXqvRXg1W+4MAqkJTU6F\\\/KVVPy\\\/fIReGjErceQv2qbtp8UI6TsvxFs85VuD9nWuQjTFYD1HUnUnK0hQKe0g5bmjC7wWDRwakclL8u5bjDXjoGgJogM0fG3aNyOR0J3HQw3IFqdatXbPsyAvRAcxpS1MYmJdwfRjoGkqunjNb01QkzDl1mUUxpfmtdX52WXIvGGc3kJ7AnIDagrHeU1w66X0HW\\\/ypdF2ddW88Tkn89e+WYLP+FpIoLpkvkMY1d6g8tUYhfEtpgKvH4GRjH8Mga+pcU3i53AKIiu7b1JkPxBHKmgsBc4\\\/Ggp5piC2sEwxNcyyyy31hGezsOYTqox0FFTBnIOe4lhPxs8nFvXZ7eTdIzdZ4Cy7Sgjgotz0afq1kCwF0WobSDWjPbcbRldZZ9XB7oR7l6EBURO0ruvku4yvDWgMxGQLSCra6MpYjq0420wFbLcyHvplDHr6Rqg2l4Bkc=\""
+
+
+
+GUID - GUID20201208181848================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113554================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"Onm9Ofc\\\/715UgBpMniVUhOdpBuDFWzA7h1mIi+t9vm2CeBxwUcvrxMri8ckX76L811dNsg+xotkJMCRlECfYcc7rc2WNfWw\\\/yeA1EfdeHDE7KgiZA2FGRA01IyiUMn9dwUfe0QC8gljM4KPzTG46OncnIU5vV023cXNhXuH2DAYNwyItiG64hRmbwJWnHIgUSsgXwf91+0T\\\/ymMxjeFcvqEdGmf6pvxTK61T8ot3MxUBNwY569hTkdkdgDhJPuru\\\/+MYtG+AlMg3T4NAUQn6BnGkPSXeHsirZT5J7LZPddNB\\\/9VGk0zTMgzFBTMqsg5SLgkZsffCOxjom+ZNuBFLAqqdqe9eyEg5BnpzEUdHxPXZmZE4xC9dHxBNDxJWmu9XxhNguspvQGusjl0oRSPqoh0ffFbY4\\\/O9Yq+tRRQEItec8QgBVnB7jQ\\\/2xB+ExCWRT0Liz2jEywRgtILn+HCQf2rxCF3OXDJh\\\/6mluDqzWejgKcsBu5gL8Eiuo6RqInYzt5ilic0ZPeO1zBpZRPYaGNNzF8pnx188lKcybv5hT0MemzzPEE6mJD+OxvkZygtPYOyJ20NF8QBa88zqMgE7TuCsiZOKgEBNWA+K9MHIWgdOHSyDptNGmekK21RLdU81rDtFpXRv5n0vWwtcxuCbEGlYeHiuNY3\\\/IygdSSl6Vdo=\""
+
+
+
+GUID - GUID20201209113554================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113558================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"jLeA+ueRoCTE55Q+x90GEZ04btaBBag4PjXPJEKQ1bdnP2rnWGbD6dYE+740CjDx8+U8WK03FLkPu0Q6EyrdHq2vKaAORrqEzn2QEw\\\/kBmECat3P7e197tfma+3cNlDensjQYFrS5+KdioLXmq\\\/LRzoVcSqk\\\/3Hdo+JFOZISGBzsnoQlYn18OU6NS7DXYafFBiQ\\\/5J2L\\\/9Uo5HuKA+fGJGglu8yeCZzt+c4Gaui8UiK2LH3i4IVK5EhcaQhghnxHYVSCigW3B9igax0HXtxlEU72NjNs8\\\/MpB1NFYBlGRZq66M5chDbMsjcaUFEpSVzW3+\\\/ewd8\\\/LR5Moj05\\\/WqD3LE96hpaHoI\\\/ftICKrBieFplmA7GbyIgxDe1g0xpJYbVIwltvFOmqvkJfTHT10obFXmqZdMdiSdoyruhHSy85F0AhaHFgtS5stJnawbQtQ74OlY8f6hsnJtQyNpsg7M3F4o2276q66zHhT2fNvyd0XK+zTaOc+sXx1DuU58SIgapdERdAxH7yZZzlOtYYbU3Uqy4CBd2AnH7mYiR5hJEd89JjayQkQoCU8JsrK7iIXlR41xkX2SNZtJYwaQfok9+bH1ZP3EqEJqGmlG2zpz8oW\\\/+qWj4\\\/6ydCpy9WaSzSEK+54sE7tZjHxeLpX6\\\/43pOuS292gnr22V4vK87XmOC2nI=\""
+
+
+
+GUID - GUID20201209113558================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113614================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"d8RpGpKOXfl7j9sjp+3VErWhK+SGpN4EZopBcniDhDmBeZPDYB+nxrTpCQsIJTy+gkgTss3DOipoFlj8jk+ECUYz2JI2sVzXXDi+QNZnvGWyU5o9WbQL0Xyj+dN1KsrEODUN4CGt63t5EBLcfYoFrsQvUZFt91+ozfBfc\\\/Md3nStDkiaUuuBKOzP3ld1\\\/3xZC2AJLckPmCRkMa8\\\/doPSvJ1jx2fMTK6QTtzgvRgMHQ0MdIAieC3K\\\/uS1JpUZwEnDMvBdMg61yJ\\\/o\\\/OLEM3caZ7W2XKS6XGfPiRDof7QCvWGGmbZ531gOpYWpsAWtRBQ9usE8ARjYfV\\\/\\\/V+bDmr+3E+qOxDwv8hYnTo1kbveBVBfQuf7hZxu26SYYRvXJrS3+zJxQ4X8l0jt\\\/VkvBN+GB0jFMdfvOmv\\\/DIqc5dLn+hBeBGSIsHxDVPttuydnA\\\/pe6oQ0i87yMTACkQmNF2IuS\\\/FFo+r5Yu2GrAb2v3lnG\\\/zScsW52WZTDL1Zkit+DtODADMfG5muVQEjNDTp7oJRsHK0GbYKEzC0XWfNUGmoJAp1JH160fXN1lj2s1LgM2bmlwSvPV6fscxjP+Ztwjo\\\/ELYU5ipenvDxwkAnpUDfU\\\/Yt4Qb2kgCK7QoAqLOpQy9l0mWiC9770M7aoQBkGWzBBIINBVs1JunoZvGtYDtYtqfM=\""
+
+
+
+GUID - GUID20201209113614================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113630================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"B6GGCs9FWJzV8HeSPLhUO7UJf5NSjvWbF3dzPDw9DKOhxzeTmrG90AgRnnyqOZg44uBtevfXQQ1fdRrh30trARrvsFSgdkY1KtlI6XaA51rOuVWq4EmyUsWoAlC00D6x9f59ylxxoKoerjtKrj1\\\/ggz5iTPai9Jn+VyD1s3+XEh+NUpI8s6NTZeA\\\/Jgmfcz0fkR2ImoQovJ\\\/i\\\/bwP5XgA24t4VtoUVTNvQyEPNGiCb5kT6MLLWC4F3lvyW+v\\\/Ect4pZOlRKuOhW0TdtmcrPiFy3iR1IcDnWP8tI2cpj2jqyOzXb3SYdaevkZM6UXJrlPTfJwvJQ4xcN2aJvaiFFb0u6QBv4mhzpPw4mfGhXbW+FElYfjk8Df22pbvr7vOba5su1qHayQ6BwRE\\\/G0cDPaAfGx\\\/wbSlVQfS30BQMVzdmM1Son9qKKgANhwaRf+1nkpgmICZR5ICNUcwY0dI6MeV8lmuHLnu74Z+JuewNQvFrnkUSctcK9VVNnHMInMeZGku7W2r6e1sHXzUZgrZdhJUqvmwuxo4JIVRvsYYAtMVXNdXIron4D3UOP8b5JVWHNyfopmpZzlkl7ZcuzeLx8v3MWZeXd0cmahOLGhFhRcs\\\/rASR9yg2LQ+aMNgYI\\\/unG+uJ7u9v1anBkcQf8n3EA8jZ6pN9qhpS5jYKBvs\\\/r5rVg=\""
+
+
+
+GUID - GUID20201209113630================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113649================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"oJE2qj8JAH98gQcwy02NFA4A\\\/mCX0wSmeTLDBia9MZ5DG+LIJ7rwQ39FI3EIAvjeNwce0iqgrQ4vdopitnE90aXMfKV5ZcSS7EppqB0iV3jJCtDoPqCr6tlRbVLF2uwJi0\\\/tL0kOSRxv6sO+lWU2F0f4bm5WWJLLmQkhAw9nyadkG5dSOZgyEh26oymw6MSqclz3bA9Kkfaw+ACNr2T\\\/ZNRyWW9SY5l9dAyAOHXb50juO0XEpQg6RTDlBsqT2s1YE86VPzfYW\\\/Zsph9qlOnddxd8TPNiOngVt2QrGGiPStkU8Lsz+5C641tjZJ7Z0qCaY2jdM2mPprpNFakl3AWe0rJYpJdaONXbiV2NvVMO0oSS2ewhpJHlpgcHlv6H3fQLhW0z9xIwD8Lg3t6gSoggRU6jZWczGGoQa9A4wXOqY3T2LHzDkYQkPESmpOyxoGbdXXKgGqHuuLgY+uh55DjxyBvh7G+uBvVW+ts2xbK5inyeFN\\\/ucTJeHnKDGiCz\\\/5prWMygQ+R5muJMslXpQc\\\/nMRhJ6iTYVf9zFQhQ\\\/sJxB\\\/DxjaV17Fu8aZq1vcJVhR1YiF0CSc4AJqE8zxuc3vVXE+parMciCJEZhFHKJqRjOrerSreaP9mxbdgGtaumsiLPW2lIBVRXmBQbMcus9EKhEIpCy6wnO6SGPKmwOXvP1AU=\""
+
+
+
+GUID - GUID20201209113649================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113701================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+HEADER - ["apikey:0786f0cb20cd4e42b3d169fb9e5a13be","Content-type:text\/plain"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRID":"OTOE0052","URN":"SR192922492","ACCOUNTNO":"349005000264","FROMDATE":"01-12-2020","TODATE":"10-12-2020"}
+
+REQUEST ENCRYPTED - "\"R9MEZXFDidFjgbQ0ZNIrOsnAUU6PPOuOyrWAHdYTPKFdC68MDUVMp1MYOkUpQd5wOol+396xuNQShLs+QE7nJrptcka7a2gtv8PY\\\/mKO+8mFk77p3QvOte67MaOAg7X7OyzBpM0ng2dl\\\/BCvF\\\/bBwPztX79uFH5i9iKslhBNcDZP5iAJ2EFPsjnI1W71\\\/hWq1SmO8ULj85voZrOdU7dpFJ4AdPGT5H01Q3GBqB664p3wB341jvR0FbPn2\\\/amNjEK8bohMGgrnecT9gfW12NV1v9XFugK8uQMh3ux4UNo6KZSc+hjA4zvkMYVjXUD3iQxQSylPl7FDUJ1PqmDp8lLOD5unsooG\\\/nytZDGkmfoTmTL1kLLtWhCWcdRyvorfQmIV2kuH+TSiyIfkBOUTXF6AGC0+81s3BHjthhOs8dDP6wzVhgpW6jwqvrMv44o2v5yncEUvs3KwXDGmBKoGwNqzK5uU3K4JyzVUVIb2gf+tJGULtfg52aSfpKQrHU68KjizZO1828tdKmtU9xVuHZRf4o0tMyonHL1TsU8bSsoquGjMwBKAom+i80oa5aBCD03PNDuAP5+tAeQJtSc60\\\/CjtX8sFh25zTDstxt+YIx9W1v3OL9ccJ6Ti46IYi8nItvKAjKbO3zJguy9Ccxf8uXa6LttEbcL0ed1BnPEtaKiPI=\""
+
+
+
+GUID - GUID20201209113701================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/AccountStatement
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+

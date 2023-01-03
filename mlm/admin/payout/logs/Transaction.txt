@@ -1,0 +1,557 @@
+
+
+GUID - GUID20201208181813================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201208181813"}
+
+REQUEST ENCRYPTED - "UsEQZ+h3MtDWug78uNLUGQPGGQRv5WW7aD20lP3UgWuthmA+6+M2AOC4n0Fxb+xQTn84FxsJ4z70vjKIfBP868Y4zPvt7Pe3GgWsDyJbvGbYgxSJ2iKU5hW\/egGRhX8rbkNXkF5Q6UwN88N7J8Fjzg26nSlqkCURQ7acoCfhy3LO9nFfOjEsfx5tR4ANouU4tf7AFxSwTmFhdotxL62o0SqsTXfnGPALbpBxkB0i1TonlEGIj0dpj40HlJDl9qOOKqHohGNEyv1cdakkAa4DxO+W5Hi7jk2YnX07Qlw7UegmR39NDPuXR7OXwfA3ZXR8oOrQUii70Dyzk09tEpHmVqADGJrsJqZmZIcgMKhqi8xWkqEnZ6mDSmPLN9c3acElO6ochNHKNPd9FSRIKl027fuOHKq9Qt9mNQNIOlkMR99fYi4LieLWFrk2QqIz\/dvmJuTqYCouBudAbofPeT5elEF4hvCdqCnz4DqRmht+Y9z4V4Fe\/SBEQGLQ+IpqHbulu4JgHgtNVgKryDuKDSVOIzepFKXJ4KlJzu22STectrFG+fJso2ZqApWJr4mY\/5w4H9Lsyb\/qgQn+zqacc7nSpbaSUlNMWefOIapkNxtvRIdwnOru7ZQKG+B2P4L7uE2oE06UbktGq+zitsFRBmTvGLlDXqzG19DrRi7J\/RAotjA="
+
+
+
+GUID - GUID20201208181813================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "f1TlCenmNUdeITLMu6sps6A+4ytG4bYVV9AR9IwDBpEahVX3I3x7EFIQZn1aBc5icTX1YPLUUWht\r\noQmTWza17H1d2zxnWQbszJ8oI4tz8mkHkapsRdnNKl\/fqQFUOH6Rzc\/XE+zA85HsPCuB8Vn6dSuE\r\nJGmMQzPz1EpkcbOrtF5tux58wmuBD\/Na1mbw+s4lf+UXlRlVaKaBLAMQJhRjEQKanU9JR5J0GaAP\r\nj+h7G2YQW3hG4SnDqwhZAklF9dnTwixbCIKlnLXWCnvKRYLVM\/Ug7oMBPr8mmjMY2bnYLoNuphr9\r\n34ze3FUSjdNhYi2MTLaNP42933SJJNDSIQlIcIUNyItsudvYDYD6nj1SoVcorSG78apdfuL\/\/TDa\r\nlrR4BaZJcDJ95OsHgAYVm8HDAjMvWirq5RFRoQRR6WSXLzRowcr+HuSDsii8pNP6nMFM0jf+rDpd\r\nMTzYU5pLqfI3prDlhoQ3Ax0p7r5SnXU1FUZAINt1WtFh51LGq5iM\/RZWGKmjaQhFn5HmhP\/LF22V\r\ninqiAl0A7PN0t5OXoD+homkzcbfC4HzzdaRo\/0NnPb9tlexGI71yr\/snJXoYhY0Ybr2DTHIPmTgz\r\ngHj6IcOYNpyapvZEbDOn1q5s9Gt+zhPQnoSAwo56UDpTts7FGyRbVAs1cbzemYau4i5KV3ZdUhw="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201208181902================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201208181902"}
+
+REQUEST ENCRYPTED - "gvQPKdKl3XndGOID9gx0GfLsHIkF0r1eEnSqx6Sr\/e0\/xqGGjGZJJn8yFjfNOezBEEMDMc3KCBpmlwgX2lqItvNTia6WC3WYgKjkkTTpWaQrTzRkqsCzyUxhqv7ZuVTVcTvRDcNevVecCABw7GBHqn541uBJBwigRlYXF+yr+PhxSyLlO1Uf0W+Yus6xIJ9iSZc+v2XcuHz+zt7r1t5Ttrdj8n3sc26Zh03FTXfBmM5Dcz\/zd9VptSfvayzXjweQLDZ5nKmqqOYDE8+PkeMWicN0J6mss3dLCi8unXrhHdPMmgDzte12g3I2v6PmuJhz2Td98R4tpYCz7wIORE6z+BXVKOvxCmE8UqSXPJJVv0L\/24\/aPTksWm\/fg+z0VQGJgkEJMdg\/FHyjzbFIyA\/FGRmREKos+zGOfpAhlmGwwaCYhTNYVaO3godKFsc6R1wRZGq3yBvxf9j1EYEtjdUjrMMj5Zk3hSlFkTwlT11+bscnDOs40XFH98aGYvHEDP7Kd2pw68lV7mETBDjuMLjm9BMEEPmVlIsW942VOspN3bufx\/1+A7l7FC3rEXsty9Yhe6+mPzgN4B+t\/hwQf9IIG6Q4jiyRPVCx4BPoU2bJ+YTdUl2QRldL\/FNvW\/5Gk4e0dBPACGAb\/99xEdXh3kJWrdlttufpg3yLV41MIhqKGVs="
+
+
+
+GUID - GUID20201208181902================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201208182026================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201208182026"}
+
+REQUEST ENCRYPTED - "AAZATMzy1Qqj6Oz7y2XPK+StT31ZLCujo6Gbrt\/Islyt0C+owW8K\/mWaLrOPuzaYXOxEv+6tD\/tf1ZyhnVjXyeqtACw8E7XfCHZ22BsvHJ08oErBnMW4MCbhWF7Vu1WvCxzm6v0iKfFoFMZaVzOd+oFRO5TmI5o0ctNJhcc0auSXGCmYtAD2YJ8LL8BfOBy9S2NyQmj\/CIglQfgBZRj2b2Ki1d3v9D6xP60O6nNfqHa\/ngu\/BlngVhyAmElHl4aFHTGYTjJ9lvIZnk0\/nY84iiwvRJSbcz5vSZZrAoK8FIgtpDtAEA3BVMbIQdkEW0U+n1gL9KIMCWqE15c2l48RyxJSc1nTQzIh\/3UQ6cLNPQBeBIkvgWYdbNN0c31BOODZ61AJe170idsKzbFuz7ymB4MMD\/wiH+gelw7kLvfa21TKyntxHnaMQkHK91UGEoC\/R1FjyXZ1JJl4iS00u\/60PkI+NobLUs9IafIY5h8GjndNZ6H1MjFfExNsQDqKUvHq19HbYnlDPw\/gFA+E2JWywp1xy\/lShUwGpty6oMRCNXr0DMheo82Y4T+6OzWP5MvnNnOBfImTq0GrETv2ZcSLfYsp5GnNrlGCdcD35ZP2F4+PgX1+VZdTX0OgTNcRishcp4LakDfZOc3tA2+tVlMRVqnshZQ2L8KHF7kvh6lR3rY="
+
+
+
+GUID - GUID20201208182026================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "NFNafDK8I1a525O58ndQNtIBzozwBgL4rAPAdWhX6R6QqpirHFj0ymCfJlG4VEVcqcuhc4c5o8uf\r\nyMlRnV6tLfRjgHpABlZoOJ0PR14NYBIUMZpc+bFcWZyxalnqg4CNKIb3Yd+oouz+zong6qhj7upA\r\nuTstKZWcwmxm\/SgGAs8Oq19PA8B6nYv2QCNo9ThYLQ4rP38f9kXocwimELARrSIWJXZiSYMhwGq3\r\nNK+aInwYtwlzQkoUPAptvpx9wNLjtyEKO9ePDO6x7JXaoSW6Il8AgPmDQxkx7oFzxJCJil+UN6Vg\r\nKG34VB343tlqSUneX\/8SmhS7AMS\/ccc+avMJoKDt7\/CegW8DT6sHA169kNQJKv\/dwQ\/8W8PdXdkB\r\nhDPFogBRR45LhB6yIlQLvA9wCDVgzElDfbNzP7Bq9GFgV4dhI\/yeDbwdFK6ZmP0aWPp3W0R5Yk4E\r\npoJINoqpo4Mb7YjjkEpzA2sCwm44gMg41kyzXCA5SL3ayOuwUBGRSPHyp+A58FmMkVr66wdx9GaV\r\nWp02wAH96pFw\/zOXbdgwiuYPx7PLxwIxXm1TPcUTbw6zG5bZ3ILi1VyQ6RzwaoRJx8wKcV192WUP\r\n2IC75hK3hIVDjFuOVXA+6oiU64BiDDejlmUcMkWxzgDbE67w6XP3\/kXa1GxplAAtnwv+wU\/krsk="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209102039================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209102039"}
+
+REQUEST ENCRYPTED - "C7hEdMFOEAJK1YURit+3rfP9bS0DX2JHj\/c5jNFCWG7oa6ms5uDWdwC3qC9A8d2Np59AL1wk\/e+\/aT2Av73FBmJqh2OhRZG8Gax+GAFuD5tNYyYZePRQLfpqJSJXa7yfHQyiK+FGjKj6As7M+rgehtQPUc4XLz9uNoqCdOkYwHli7rmIWMciD42XL2ZyUwxBSNejTyv8h0\/0vtjgsmFNJXTOzuUUe1fmHVOLrNPHW00Lz1+XSxA90ansi5qPquzmIbHQ8pMWWcdfeoUoA1EVz0bw63tp4j5AjJuikzXBuXn07Ak3qNICOv05e3SoB2OD0IjecqihMbh6PIW2oG481zDMhT\/Jp68CFC2y57E204HfvBgXcAA2S5t1YPoADkpOGHuVZ26tKnKaTjiCxI3Rfk1j\/SorYl0Uw3mCbqeBRbSHyXj7vs4X768XnPQC8tb3bp1nzXrCTHl3OslqP9g9axnLVDpxDcduRtrNIV1agaUDZrhx6rF5\/miEL\/6e1p\/jR05rjRjNjcSOfzancFPc\/zPmHa3ew+HRkoR9x\/MFEHY0Q6l+rreR32OB\/4c6j0mBkCRIGltHvOJq54XtaHiY6m8qOl1SJotXFCTau\/J2R6rl99VQ4Yz\/o6epC6N6avNEAx7S3dUky8DznWm+67Agc\/rRAPgWWeLZuRVm5ve7TAY="
+
+
+
+GUID - GUID20201209102039================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "f58bR1lIneJmyU5C+n6CkGNaEl9vzBxEjIg\/cJLgai8lNWvdxERzqcOJ8OiiJorvnN1wx+1RBsa+\r\nbhZ8amCYcEmyo3Z1RczMppXidUJjkA9SUkGvKUxdYbUdIlBLZPjqlAvYvdasddPjlxJD0IdxNQ82\r\nrBKuhbKwRXsWvXn+DUqlWv+YyX2+60JubgmH2+jNw+RDJUWXJVhdVo\/TInEolaMpCkqDjhBEqMKG\r\nDLQ7jTcqzeGV1OY7WRB5Ij0I47sdUbh2nHUA3R3YhiCMX6MXRdP4f5P1l0EJpFaMC385\/flIbNxZ\r\n80odEojt8qv\/lEowEsmYvsPm9XXqOcQEZLaBlddtn0C6esTCHiwJxt7b5FA8i9DoVJ5Uw7qdquu1\r\n2wE8zipdb\/V6IC8DFntSzJhIjmK8DX6C4S9k8LsUY3DC+beXQ+oSqqNQtF\/7fSuLZFhaD1UD5xI6\r\nbkHlab8H\/B63Q2OBmnDLNv3WDvNjhbrO4wCYM1cdM5a5g76dExJ8VwPdJtzKy8dxO43uocdNfrXe\r\nnKkJUd4XRgUT4vsWeKZpRdfMeSoW3UM2cS\/4JZOU6nLeKRP1YjjUjnj70VHuScPuJ2PtMFDa3WtA\r\n6FVVKT5JH2M5KtsFcwlOXa55qnCSZOAoMxllkiwMhfWmDx9JP8Vq65ynMXB\/QvWQAfnHRk5jFgU="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209102949================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209102949"}
+
+REQUEST ENCRYPTED - "Z+xlE80zks\/HUmt0nFwZuyOho6ggsXWQb\/AWVw7QOZOmXXcASQmSqQ32fjAcMA1uz1EbRi5M5p3f6riQKm\/RSlTsq2K70dMGUuDlD8Pu6BAmVQaehPwlfdeLTlLPZ8hiFFacAkAClFgZN9E29O2CTjJeMuDePLxos\/rt4O54u\/il+PNANFb6mdkzfKbMKUpVXfSwp9luXV\/A61UsqXkLi69+iDHyUi6EJqlZddeEFSl95AMsRiokncOdaylzJ4c4QH+LO0vndfeOp8UpH7LGHnSYMBoZmRz4OS1u8HgnVy0BBeceyqjpAhS3alx8tIwCzr0E1EGUX87H+2vqK6rdQEZnOx6o\/tTTB2DFlxvs8Q8KlYxA7iyA02n8IRVPb99dfcDNNkb+qWOpJZjUGyYxfILvvvP4KwkNrFki362splUNOm9gz+pJW2V176mwsCVX8OT7MeaALD2krrzJ0XVLQzpCDm9fyo8vMD9oIVYLFb0ynZnKXgWeGu9\/XvpKl\/aJnErGjNAH4raSXbiuNact9puyXv7mZhEH07qg7ZKAlBZp5vIHzEzit3xXHf6lt4bsswN5\/5ZIdnEDg03rv8JXS5SNKyuhgjQP\/PSDDGkWq9\/HfB8nIlKrRp8Ijtzy6dgb5Pd+ZYeYNmfV5xn+3DuzX6W32qbqrFTrA\/TGDBtfjuc="
+
+
+
+GUID - GUID20201209102949================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "rcRKFlQFtJsf5lrzqdEASOli6Z\/VXjeb+tMg2GNlJ9uEZsgKR9etlfnzRWFxPTarnor8oaJSnAoA\r\nzlzNjrCZMivQrdDfnkXE9bHJ8xwB3rqaQ9oGPVEgePQo8fPW2S1H\/fl3mNTWXyXHGORIeezUb76q\r\nUfSGVSVVehQSJ\/AWRw+AmjcGftUH5BTGgwfAn3aPfJDw4Qofh\/nwNnedfI1FZMm\/\/OKjis5bnxp1\r\n2iXC7ahr5SOXnjASzv5phXPjtR+7o5WieucsRCaAgGN6lxgz5NL2vzAxmW6v+2n2VajsKXyUZiVs\r\nGfPWNjfdwezi6gCsQi\/Sv5pktJLxex1AmVFVhnJ58sxDmWm7QjuMIYfRJrF7kn6vxNKtLCxWmJhn\r\n3heVemjs1Gz8ZcvMYzovRmk7OfcrEkx4+W47nzPO3\/imkBoE4NHOeXLaVNwwfRX4K5TRWmQ4iwJa\r\nJL7ntL4SwZbf44JT7GGZU1Ohi8HQ13cFVEB69TusNvnplIWqZhRp8TQYVbeWfsJIzJCvmrsdKhOz\r\n6OCmfxhE0qyYj0PDDA1nt++uwqYZbwVYqVB6vAalWEqp1Cc\/QF+KbiBUZTVct8dbhequwUSA50JJ\r\ndYS\/6Aq2Fjou6wQi3cQxP54wY5YjAyiNygDR3Xni3eWAMdJ81Yix6o5OvNyLErJkEBSm9NZyv6E="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209103040================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103040"}
+
+REQUEST ENCRYPTED - "SkouklsNhk18AOWpakkzHdJYuL0Igw4knoo3SgFOpiGUH7OgUn1YwYncfJl0xxoAd+DE5Wgyle68u05wRN3qr5\/s9WCy6NmaMufh5CBjiGx+qAhH8BvkPDHJ5NTF0ISewzCbatDne33gTtKdkJsltsO8vmBJ+AhyJ+sjnzZX+oMat\/ZvhDHTZBt6oncmDMBNF5MmNPA9euJyC4v0qxo56fnTN4DHNw5lJbLhK1q8v0ACO5iAUZikAqfcIt4BRtia9HgTBE7aJLBxTJr9ulIWl5lBS\/nugUEmyKxEWcrxSvFeWOPHtcJO4yRwyX+TP4Wsatjj3EfGueiWJsMOTG5tkOYxBpUHaW+twQ0PHfQ1jYO63+x17xZNWHpjsrJoBCXC3SIbMPlI6tY\/7HmiiK7H9v4NS0LFWkFNF5jI4d2JAtinVsSDXLoOBmPnXGqizS6Ho5SS2elTpbdo25jYHTqvmsB0vOWtqDil8+r66JM5TWKeHYXO6Gb0nOVSrl9HZ6hn1xQJvBJ7vgkLE0q9w04kw6noN5UXO87qvbhYgfb4J5\/87sy9Id0XJ7HbErvsKKmFUbP6nnEUvcg14PsA3lkLtSxGp1GIMnky\/35TFTCoedWeUJdojPg0RxIOeRT3GNnzkLELuQddNRgaNp34b1rXkmurdAbtDVZ10bDedbhcfnY="
+
+
+
+GUID - GUID20201209103040================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "X1jVCPUf7r+zBO8qUZ7QvdZvywj8pyVm3ytUA5wuXXBhcfWhDEqGx3snvSPTccXJxb4fD90A0uqZ\r\nRkrXZHNq8FVgXhpzxMGYJYq68+Cg1HBVDl5DkS3+YfoHU6PpzXsZmn64XVTTXUalvKuCGKFegLpR\r\n0Z7dD3dc\/oy\/bQ5Aq5lY3if2vUojFogNbs+NUfVvol6n+efrzZVbBRVwkm2s6qxCH9dfuWcNHBo+\r\nsVP8cv46SuBBQkFy+wlDmfq8oxSCnSNUDjEu6w7UI2\/nljjHtp6xSAHcbgR9SnJOB\/CyYVEICv4L\r\n1407c+S8TP5\/DdLzOoD\/bUfa3HncQqYkIc+YrTr2b5i3ARtTOmFTM53bQdV0ztH\/DIm\/LLEwDBzl\r\nqtX9\/qHCjseff+mmaBcoYkbt+HdjLQXxW1yJHYhW0udj2ayKvebjR1o6nY+cz+E72QyD6PvLZkro\r\nbJF2uOG08S3iMiGMEDxK4+OOif6XHEVjR59MypqTq9YadYeM+j+UTrvw\/StJLkwlv6tYekGQpzIJ\r\n6PYYg3m\/mbGxhrXxUWnISTYDrcEVyXC\/+k+dMI729BJnjTcXz\/ftwjpP1X0uqT+8JWyzAMrtO\/lm\r\n\/7bOkPw6e5kYCsMHDR9qURpr0\/ku\/dGQEpwZiwas69\/siVDKx5bGTDbTr98DeL\/rUe5Ls1j+YjM="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209103150================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103150"}
+
+REQUEST ENCRYPTED - "XmN1BFvr6l8a7gQuL7f8vKhSiyHoz230NsKldbjGXOe6MfUEnlFpYYLQL4IjcTYy\/KfYFmOuDfZ2SK4LfHXay+aqgrtw4LWZvkOXZtRBXHIV9cfy4+hgSs+ylRa1035EDL0yGKgzGWSfEac76ksTKGMfJ2acxDD9WUuQhhOD7OoPFC+fVfPxSvGRhuUzZvZvVLgDfz7t\/k0fEQX5WluS5UmiA7Lz8SKZ9fFgyLy0Bsgf+s5FASUg\/uZRbJ2CAO7cwM7CNf2xMRAxfnJQI3FsOin6pyd6tNGN3TPfPKXyL3JHp0yZG0E3myDB6LOX42c9b0Fm9WPBF2LaL0s8L20p43XZoI3dHiHUhVH3\/z0+4lMDvIyWLZ2bMMT5lvD\/Wilb989g3BxtmPxM5Ct52C2fhWzQ2Xk0\/Vs6aVPv0KrxT52FFfHSvG\/GYRadB\/92eesGvl\/05ZZ86T+FDGtFqJ2Nudtya4sZQ9MMSNhMGyoOZTrBGxQ9PN4J\/no70QjpZLTEb0S78+i\/\/qcJHjQxyCSNjrFWXeuk\/jAw6TkmJyRWgfGh47ipmFPsTxkD7u2SpqJtDhiO1XW7ZJDXCmlTCOBKZEiSjosCas8KoJoNRso9Rl4TBYByHAzCtgpVzo7NmRayPgje4rOGWz6CESP0ZiTzdNDVLPIS4bKxwY2e3bjaj2E="
+
+
+
+GUID - GUID20201209103150================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209103153================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103153"}
+
+REQUEST ENCRYPTED - "VB2uNgFA8EpBajPwU9iSfbDqY4ytD5npgS8tNwjlKdfqHBEZAQdlv+yK1hbn5gxLdajVSbrA59qBEo9pCoRmfS\/lKbjytf19Zn\/qZIybkv2i+kxKBol7nC2g0sMMbAHTrDh4X7GySXVHAJYnHFbCDB5nt8uUq\/HDeMLnCTnpdNeY0FnUYZ4mlma8lZikGtNYfrvCTsvxrC3uGiKpSh2rKYb6mBMsOYWm\/sBWy8F+jQKuiQhHgaQV2w+446aGMxYCPeRREMeH4ig\/SwaXR+gSdvhvKRD+zmN7RhBgNJVvVxeqZZnMsbdAcabjWJuZuwj4FwwqrCwsqRi6+Lv8KIlwZqJlDpAX5IYUJUHdRsCyBS+zBnRQmB3L2J664Ezg2OG\/2uWkNFlvFx7JlAo+QJed23y9BSRQTG4RmiTC07tGZevSGTAfVlgjBML1gcwfySdfABoerscyVbJa7S3c2C9Rjhi\/nEIZq9CVQtBTS1H5YprJv5muRvNVGGt4QNAqbW4V7gQHbd35U7rYHI2ZJdFXuQhlQkb8rLJEaGnU+rU0m3\/bl61F2p8hBpUKNRtn3nNJdesIxrcdA3EgrKEo6rCvXCp\/imsZ3+wjWqrS48zI3JEDKZ3ejGGuBTlq5ulrPGsgkN5FrofH16ln\/T\/LLS9FehZpfQYZqvr+vzrR+5kHm9s="
+
+
+
+GUID - GUID20201209103153================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209103210================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103210"}
+
+REQUEST ENCRYPTED - "TL07QoyhlkrvpKuP+BAWhaPHH8cGjb7iusUk6jPcmHfhiGZjRL26X65ww5GoKbjQAXXE2I4wJu8yabpKnVlSZoVAN1yivtMKKyAp+GeaPJsKO5Yzh6+kQilil3SeUfWII533gsdtWeSNoZ5DNyo5+kfVssXp6bsgjpgBESlzoNV4e0tNnH\/zxLmghC7\/PNx3TFT9whhgIdNdWphQLe08iKvN3majvBrX6EyefxA0VltxJdZC4rj92c9gUpvbgUzB+ZQKgpzV0Xa9ilhT4fmM9SN3BKHGzmL9yhHkoKkXBARaqtLJT4Iax0b9yqszNTJ\/1hJqvM7lZLrkrqWe9SvfaUQRMIfchbaGlghXvSdf3Qxek8r2LQRBvZqpTQqr84rk9Fm1SOJ7GpSd1Et6wRZw3UhqPGIrVKKa1VJLExaAPoDwbPLp1grDFK3AaEYg9WJi6g7ve6FJM0LUYXpFszNUQSLeJIskQsuRkwMMuf7fBEblF1\/0R4TrSjBtNvnSiptxvE\/K4o\/UmKtMLeSpFJA2RMWWT6bi91pTcliIohmrJgGKX7fvp3CbYzsFRH55lattMGxs11Gon\/xdMAYJAnAL2zOPh+Exvpokt79QnSNiBeycutYs01\/89Qli5aQlgfJ6aAvf6Vx6tUCwlehsbrDyBx\/uJmuCHmSvOLcjP+Eqehk="
+
+
+
+GUID - GUID20201209103210================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209103226================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103226"}
+
+REQUEST ENCRYPTED - "QDtvbOFTAZHgCPvPdFU5rT0aSTmI4wEqL+Ui5HHUPzlFH9Sfyl8x0rF3DOpOEzzFd5KDCy6F2zhgVjKdOK8+V5DRrcQrjMYiiE92HQwLlKD7Hz5czGBQdULYUOflDb5tejfMTGa\/I0C50\/XHr9ZlBNrwFy\/BCE7Xh4NS0lXGbM4axLJG2bmHvfB4jSPwgQvV8p1lIyLkOoO7ENKPjV9Wc9F1hC+TmvpFG+TA5KU2\/ZItZ1hE9lPbBfGWxdQJ2B+cEWdyFeZXevxj\/HTOWLYPAlwv4+hVLp2kFxGQG1sSxDmlYiCqCj8ZXTe+Za3vkqKoztS7ELFNlpdyhpb+2VAdLrGUdn1gA9sj1LzESuutYDVR\/FChVuslbw0B5zIdPX\/0fROmSseuOs81fooU\/VzXVqKXjaM76AcRhTcc2AOdIqYdJe0O3WAAytBb+MmffAvNScLScUJ1MjWlmdbpe8sdCJUXguZ5D0FFEKoBrC9Pbg3YNXyGrUisJk\/ievkYt0JSMyx6iGe1TLZFWI0TzUFwJHgOKepPoAdMTu7khcXtsKSJhEti2fqsYEt61\/8znQIg3f3JggD8y1WORjpZzG\/PM9QpDBdejsPVUr0VDZkcHTRDNTrgNDKKitf8tSZ7aiBvnMmpfXHe07fA4bB+wCf5D6QT\/vq+trgJ+xHzGFKFTBM="
+
+
+
+GUID - GUID20201209103226================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "kBWX5S4Qpy14NDdqKWPgS0\/wDKNhTWRlUIE4mQLBLK5X8gVwcfIItWUDQH7EgGCJhqL0FcbMKcUW\r\n046wq2HMn3dlLBmxJz14QPTgbPDRq6idIZy1Gz8Uq6BfXe0AywGdNUcReO9vyUT6DQwkE7jENHSO\r\nDTDDQ6\/ZZnqOvIUodTPmbjKLinfJ8DtqnFQ+xwcpNwSuStoRO\/360RxbYN7g31rvOCXvBRBavFAL\r\nz1GLMAvdX+T4OAqacSo16nGTqQbJI7NhLl2tAdBJCIgvfc3Bod69N4V983twCr8PjlSTHCubbVIh\r\n5ONnS4j81CWKkgyrCZNeBhzwDuJEbuRqWqLY0rlZIv2o5tql0SPflPy4t7c8k+\/r3rukde\/WHMT2\r\n7b2M\/QYD1IglK3pNDkXFrq0M6HKuVbtYdqbikIYplm90+Jg8cRoVkTuNs6zMOz7AYq4jEUiEmtQv\r\nuIHxCScAbvqILE7kRbIsjBdauHVu+rOBP1bUeCXl2SdmDNP3MeSkwl9aQm9TIkGmrXHCH8+9T39r\r\nzMKyMjNAVShMx9qjNi3GS31l8RFjqwot+\/xflcTLC30HBmJaLi4NJhh9xvcJJnDvyTskYGpBpShw\r\nZnFzx6FIPo7fes8EHfBonLgMQJtfVI8tvrnbJVmQru9dJpUfpx5CQazzg6h9r2oaq3NsgQ8BAHw="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209103237================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103237"}
+
+REQUEST ENCRYPTED - "jVTewdU4ZOepuLu2bMymP8IrWRLb+3Oof72pUR0LdR5XXLhqSkBAkaOoi0UahdFw8O0xQUbBk08frePV5En66oS7GtoJFeGa71Bg0ThALJyNI2fjSs5xKRezRSrOB\/J+4f53Po8DGY7LoL2QKy2XUvwtruor32bMcauRsxPo74VzKHY9+5yq3XRN42l4+hMLvYpvRb5H7iZswxGohRJby9H61fwfRLQUT9tfN09bQd1XnFpTJbStWwkhw2zWQczDVz5va0ShXlEMKWY+eIfcPcqaDK1TqBKy\/P0\/kzydLaL1fWf2Rc0kWNDNCOlgjTvbhgQwfGKNTuVSN+quTgvdr4wjuft1QUuGvkPopfjqWpNnvqjMf7pcvexg\/vDFI3eQcnG7V+ISqbg1NU7TlevwOJgt8qZ1TzAGPw\/8cmPybAKkGjAXjd7EhjV2Z0wlO07NfvqCUZDBFpUl+opp3Kg2eRh3PBFYkEd3ol5NXOn7iemDqUEy9eTW\/xhu4hSu7iKwyoS1\/4p03NHG4V\/PAK7xbSOA7RVFmk2hcANGgN+fVQer52nSyHNtDgtnwUk60\/Bt18oTZSxbaafSag1AnDKOWmxBqN+mRHzYup\/iZMRNoVgKTMVl1ftzLxmSxeIAvQ\/ynoLboR35G48afvqLn1BaVDxEvOzhGzHWHqWrrC+TnKg="
+
+
+
+GUID - GUID20201209103237================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "aSdFhUlSbGWwCP\/lcZI\/COUGy8o2C1gWv6SWiIuQChwKKMMBWH3jMPWFhsgjir7pRakufnrfk\/Ov\r\n8pFHVL5yXrLydxL4VTzlLcW\/vDu5qd+OTPFW\/HoPCvV2aTyqwgy8Ed8gF60SSgktLSJqKfXE0f5v\r\nhOC3l0gV9FVNwrp1c6t0DVd34JsusP0UqCDtVYyP12owOliteMzHtR2ZLfWDQQ\/qwnEFTEJSTuWG\r\n9OFDPnKXOObeshilkGSlvnaBKTHCdQeGT0qg2p31j3dk7FjaeufBYtVAiMDl10OkIffw3+9YwBVp\r\nKn8KOHCsD+aUjUdQg5Ac\/kq2OkufE5u3Kr4liHBEMsqHtRZUBMLviluR+DUpCBsbXbFmEe40af3q\r\n9ggPrh9lBo\/1W6QX6\/J7nTW+0ZnuunwUni9Zrw\/rBhZWRCnd7k8+RjND6eGff4Ao\/+cu6G+zwlsH\r\nW1LGQ5refkH5mWClpiZQ4hGhfcPjOgXnZYjcDD8zMBSv14s5JFoMEQR72iLVfU0lITDIQ41\/XYjY\r\nBMzMijr2phqeSWrTjTYxyhe6Hxz5Fk+QDsBZ4ff\/GnhhN8AeHK6lp3FFNLDU0qKtzY96Gq\/2hW4a\r\nZ8esKJhug80MWjg60wa7rp7Wlk1\/yWRRo5LsnGwSnz035SMzBTTRcxyAOEtHTtz7tSimWUP9erA="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209103343================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"TPA","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209103343"}
+
+REQUEST ENCRYPTED - "EIi7c+I3mNnb\/wQM+ZAFza8F+2odCMEy1nP\/Ru6Qj3nm\/BfmOfPELh0SOPexHmSxFmw\/hb6+cDr6m581\/\/aAjrFzHWuiHcObYnuAZdFYZY4P7F7pA0+KkbLtTzKoHoAiVKpvNc7CgDezSYBNMDxnJxXlomvVHOfSPfpTeDH3j6e\/8VWrzZYkthAGEP9wo1zdRfmevvULACM39ZCCOEL36UwR3AKW+IDxX5Ih7\/qP\/9aD9dYq\/tB1ZZH+65xfGt+XvboupLgoQ7SNQmie6KV8kBylTSeQlqPZuDdE0TXHwRXzU1c0jwyP4q0ChEf\/sqzNZ6SmxEQUqa5hGu62xzuqVCALOnr4dOvSTZh+LRaO588FisCj6QsLMCHjgRNiMJRfWzTOKsAdmtV+EQnRd9BB8Vg8YORVBd0B6OGUtZcgPuS3\/H8\/bjkOQiXxxlYnOh1uRbGS3OPfly\/9scBl91Zlhjlkd4DRDtGn6meTQVWupp+f10NVPEod2NwM3tIWfW1eajv\/+Q8W2N7ZuzYqyD9sABOtwCQ\/M9yeDSwyapLS3Zv\/l\/30d1okDMfhRp27Gm\/kro1lEclqUT\/tyoBO0SHK+lV3NW3UNcdWZYa5fggphsUEWgvbDV1I+zjGizb+Ym6PTcYbQOOkiPGtTgRQUB9\/JQzGb7jJFxlbO9f4Eaw5Oiw="
+
+
+
+GUID - GUID20201209103343================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "aqyYyOkT3ZxOvMvBbk9mBF3SRZ05gFBhPR22Z5YTqxsMcjFbHuKvxk0+McClf0i7WHz1HJX5clq6\r\nWJGuKmpNjJGGGBvjbHekQBrJ\/vuQIHp1nRDK3ql7PJ5lATyUf55\/6NwaP4apyF0B0fgTSgl5QrRr\r\niQeb\/Tqzmm2P7DgcY3IF9xxLEFvCRovMfytbsfJ3vhmilluOILhlu24BmKu8TRnhW2GpEbUmvYAB\r\nbLyFGDruM82l8SWAJhoG\/PEDQveszZZrO+\/JE4ZERnu9Zdfa7Zo6a+OmreBjNgJg7HDIG5scaITm\r\nM9V5bRQQiwPHMEkxSzGmuq8b05+BxtGjeyTmTGfA6jsfQhDUPAT32VQwBm3jrNLUJPLGSWmpA7Kt\r\nkH0cOJIpmTzL1oFQgyZIox4s6y0sDAzfyJirBbajzFIbcVk4U9DQZwGmpg5jGVjq8uWWHQlFRXYJ\r\n10m8pYMk4xy57ynz+0R7CbNtRa9Ix1WlySD3M2FFRKrpWCt95Jy60yIpDvNPBsKxTqdqNOGL+UUR\r\nIEYtgKR6SSQGdDhHsVot8aauNKX7rih44vAWduTnjTEKPVcBZR3IlYhWaKnUoKjFGfHjfFzqMvHD\r\nSghGCifcdj3pHsuaNXsl7GudqAjZTPUuOiXaOtLc6cYjlQxr+PKr\/JJpsUdH\/rxdZxo1QccLbAE="
+
+REQUEST DECRYPTED - {
+"RESPONSE":"FAILURE",
+"MESSAGE":"Invalid Bank/Branch Identifier or Network.",
+"STATUS": "FAILURE",
+"ERRORCODE":"103354",
+"RESPONSECODE":""
+}
+
+
+
+GUID - GUID20201209113238================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209113238"}
+
+REQUEST ENCRYPTED - "ezh3sl1t3NUEa+R7WNayuvciUTxbSUiFatrmQS4qk8\/EJB68xLT8ywD\/KAvmQy8N+3CTvkczB8fUydDOU2XBlX26LoWD5JlMw8EUMZZzB2SLLgcPcPk+0RUj76i3\/Pz24kUJ9sqqyfmzIjIQW8b0bYuZ8twF4amFUte7sFzq\/hspL5jXpTMHyILsoUW00cV+\/s2+RzkKOHAbSG9fc0x\/Wkx9TEIcL5gGnyvVTLQS5iFP7UFdJviICk22RUAUb1vLveq8it6k2aukQAwzFWdxJjHHJBmI7zDTvD4\/mbkvXEsgGwgJRFJX+T7BqahQ9yYZBougGLaoLD95yDnqJMF7cnt+V7TVehk4LnoXbxQaUuDaaV6eWZ6I0YdCTRUKYhvQQzLRzkDP8wNOKNIFh28JVEcipExrVcXmzDcazLPoDp58slUbTSaudlgqifhNaueWtHCi\/f9SjTBjyIKFVex3rUTPtWGQHN4MiBY6gbVmVzMPrp3Cn083aWT6p2Ty7tPGyKlv13gUsgDPr9KekqX\/drIrY1MIRhB9uDzJVzvwgEo0fwfeLnRYBd51BbSx0CTea4goTAPVzFaoXX0vKmqcQfWnbrXi4L2axiDu\/iC5xwN8Mg37MFqNRcalmhop9ginzttR4vrip3lQYW0BedGmwiwB9PXp\/AYA2Zbw0vKEBmA="
+
+
+
+GUID - GUID20201209113238================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209113300================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209113300"}
+
+REQUEST ENCRYPTED - "pJ1ALPDuSWWWHjD9ESfb8yJCps3RxFu+nAvCgjBYiPyMzgUlXQ83j3iA3wnXvZkh4rOGwxBL945JmyUOoDS9OYD+nCKZMYBEgxhU2cTfkyHjFM2K\/IXyuL9MqTiaD7n+6o84DgmcEPhYE6tnH6c+k5iOqc5rguQyeJeH3\/vkLCyGtH7zYY0hHfABYGkUozzeUIsiVR6tBQwX1cxPxQV6nQSmS+HpNdafpfzQgE8OZNqV3W2pBOQYn9knuRM+oZCpscRYhe7EqYKiQ1\/UC8rBk\/RIn7BB8nmZUOo4FBuKjnhY7fVVxfOqkPmhbA+Zqi1QQs+YcYRIoSXJnCMXozvBrYSzQHDhXrl\/oM5edyPi7tSSuGof2v5NWYb+FNPYzZAjvR9mPKl3dEN37IZkTKBfOK8ukHlcqxbfkKJYb1SukMM1Ekn5ZcD7lOrFMcVe4sUckUe7bHGVfl\/3GZN91qO\/af20b16rWfD8pCLtH486Jv2T+XqIUy3+FQdg28Lfo+Zmml\/H56TbVLE5mqUC7r6SNem58miAHme1IJ8i2pHM\/j6E3RQetfoJ9oYx\/YfX+UpQ\/6AMVI8iZ\/drN4GZR91AdBE8eyB6KAIn3ldPaeb86FAbMBWxUTrkpZ09TADfDLRKIrJm97JVgXfHvAKHiNIuRrRjpwBGAt9oOP\/OEvf9bk0="
+
+
+
+GUID - GUID20201209113300================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "KYGuEtIBEwzgGhl1QlmGUCXGLRSMt1tHfhRBuCyKdU25yGmOSkTvLAAGlHhOcEUfWs54c18Tpx1s\r\nxk6FBCU6D++7NB5xA+dapXJ0dT9L9FWid6roaBJlv7Xi1ZL8ZJEacZhYVDZF5eCAbYVZy5wOe44L\r\nBEgnnIEArypgYqp6OJSw0O7o5LkJK+hghOG7iaW+wPuhERUKjkNRJJH+HR\/5A0WNGAwk\/qw1DQbj\r\n0epyWm9orgZPimMneXlMVAaNBRpeDjfbPCKf97KeMpDHmHvKWUHyD75HNppmPae6GtzOjw7W\/Srb\r\nUMVKjMFttGUIoVJc\/2r9ayY4UfHkWBjmzoklutI+a0QRwHMilmKeKu8tccx3L7a+4IfI\/TUFYFSp\r\nTgR+sqrFtKya+x3i+WPb\/uzzE7eGO9ppS60ZjD2PIwQOPz8lunGXacFC4R52CydnhWvVCnfkb5iT\r\ngza58mIJVkRNBaWD2j7l5hbeXZxJQ06TI5GmSEnYqTTbCn7IH4+Dn4qfTq8evYFlX\/o9haPyQ0pj\r\nefyBpttmYgJb41+JtZY3fTI6JccaaghiCYp9qL6iR\/9V1x8XiA6ctK01LACPOujALBwl5xNPivbw\r\nBF1Ev+5bWH\/w5SpSs+BHCIVcEplToHNmNkax7yXK8Vdnl5d0VU3Ed8HyKVV+h+qZS\/vp0qTdN+0="
+
+REQUEST DECRYPTED - {
+"REQID": "442236445",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201209113300",
+"UTRNUMBER":"034411531148",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+
+
+
+GUID - GUID20201209113806================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209113806"}
+
+REQUEST ENCRYPTED - "UohZyVLqY26hm3e328EMDHSljmf7kHkgkTfm5RqBsfDOc4xVPeaRAr6WC3+pX1xsNRPiFqsx1lVqOFBnJpOrwJ6BpPluYE0nAX1DrtoxE636Pq0WD87WPfBHf4wtt7uU7rHQnD727zKE9z5GRCFwXSayK0h0tDremwU6TbbHYDasHlDFL0Ko4Sg4ENFtF1dZA4GCvI6DZbX\/xIKNEYEkVq+aAcQa0ezw\/27PNf0QHc9Du4zvYqvEjYM+DYE8kKWByJUENfusLqUl3AGMmtyjaKrza1zf7PJLmw\/UTwkR2\/EnJBneWgnrqKz48\/8NShRSFoSWzu\/pZIicnkLmm2ZRRkoW8efBVDTqUR44jp04jZarjB+7p4DvCLnFT+xf4jceQQh\/NKT3\/dyvrF6VryzoxTsQI2Thqbe7vbMiYqdvXrx\/G2gEcjX\/SYjTax6O22kDXQZvj777aD5iYuWPeY6tWxOAVVQZs3qQgGJp+31iuz8Bbj98DCYGcxCfVr9Ir9ArirI6dBx1DAwTrMJDmDgeSOawJHYHGiLrCc4e8\/XfZcVNcBeiBwuFx\/NB4EHCa50BD86NoXlGTWW4XgX6rQr6Z3odRDrrK11GH0mP3klkDbdgTkCPeu0A7xsK6lPwwlaSppTezSgmZSPzCwRp2uIOuuXT5Pk5ksNG3HblY0kYwl4="
+
+
+
+GUID - GUID20201209113806================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201209114159================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209114159"}
+
+REQUEST ENCRYPTED - "PlHx2\/2dIbItSdB0gng6oGInSqSMrBhp23nZFPzXE\/KzJ95WvEsktykT1\/JugaGq2j0JfJ59QPFBt6GJ8xhNug9vWvd22akRrAYaO0CZDQFbvhvh2FpHoYOiEejwJ7mQrMNjHuJjkslYNsyeXEshTd7ZKXjdNRQ+AudBNgh0BFfZDkfBjijYT3p9U\/857dVq20\/\/2glB1HUyCQljUL4doKq8yLhs1CswzaEFb551EMlypKELOqGazHSA20HavEws7xc3qYNy4gRs\/LlkEUw5EBLrxqeQJ9FvrOxaXRUKn8BKQlC4sPDrw35pSYCY\/JWs4eP5eHwPMiEriFCOYtAaIpP8UpbO7\/cLTxhSu96FQsxQF+t4pW9AGrvB1szfbIxc0wSKKNTTBsDjV\/fqUzhJNAdWPm\/fiRm1FAT8aZuUmigRaZk3u1UBxbsdDvakqA+JYxvv4seaS\/CuCE\/5J7lqHOsZ0r8J4XMi83gaTDwVUzwhAm2Ai+\/xif17ME7b9RWq\/AbF9e3s+0Eg00XBfsMFOFS8cNE032DLp1Mp+8NpiMzo\/AjwvJG\/LNibbxfWpQ\/fS\/5D+lzBA08hos4wEpib+Vm1UYXnCjczEE5GdFztxtVu1qQiN2lb5z+0\/JD0HhJscEvg8a5ihQWXjpDLA55O7pPB9SudsQSubiwkdiBCCzI="
+
+
+
+GUID - GUID20201209114159================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "NPsc3nwVtwq73z8SFu\/6nXtgHOriImOuClX83q80LKgWVhcxyZgbDekLjj8H8aFQaXhgH1mn+sZu\r\nTbwPEBY9lECyXF99CJwXdkmhmfYjgm3NrsmMdg3hFPMUTvzSeJA+mRaCdCFbRt+scVh5cx06dvwE\r\n8HG0dg9l3F\/TnOcx+wB\/MT67wYw\/rMZNr2N1jfgY3joX6vPeGpwSU8fN7RUvi5vMS4ed+BVudVQS\r\nd\/wLEngmdMltDiHJBddp1EsR7RKLxRXJ\/9SCGCFxmk6KpLg4RNzhd1S6AYQNwz3hhYhCVrcR2pSR\r\ntjtBjuKkTZGCBItlgEvDO2JYupRvfFp8Z5irLsVktdRtE3QZhpz2SoaDbVcG1PCRtmq23iY+Gshc\r\no+8s5h1Kf\/V23iz0KHHeISj+y8KjyQqGcJ25CskI7m29yaxkMyDeomVGgNoh5LtvwTJM\/lxLu3jV\r\nhcGcICFYD\/6\/Zayk03GGmJCTSWo54krVFuh9VWPSGYzoYLKdXSCpAF1VYdPvyR8kuF5xYBVRqaGk\r\nzddFRhT8GKiN9HIJbbiv+JMajDtwoSxmvIQzUKRzmn4Y2ornyO3Rzj3tbeO58LR7SHLT6S0qRxfV\r\nFiAWzziEo9ux0sZHjH005QtLMJaYaL7pVTKyI2+e9GwV7qo7gy2GnBVs9c4\/VVXdg4aukjKV39I="
+
+REQUEST DECRYPTED - {
+"REQID": "442243841",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201209114159",
+"UTRNUMBER":"034411575919",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+
+
+
+GUID - GUID20201209115827================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209115827"}
+
+REQUEST ENCRYPTED - "EMhdjgPB9io1v+eWkcn40EmA6a3LSic7tBnCrDCEWOssK7Oqt857e5IxO5ZiO1eABmWGKQMo3CkYEA\/iY4j2XxFniZr3lw7ngUorXlU7g+NK7B3HxMF\/Sg+ow09Lcyov9\/\/M3iKpEh9aXw1p\/310sYK+1hmRl\/9AEDpD2ohS24kK22TAws9E5l4mrceJnqYirtg0+jKYny0YDs1ciEZual++2Q1vHHWwalRnWfBMSO5GsJcaHgXXFII0wSlcYbPzIwt0z+XV4Au9t9RNUmTRA\/go8fXV98GkLW9ITb28vFrm+KGiLJEPGY7nO46P39bGDq04cTx3Wk10i264CdYV+qI7MXMyN1moE8G4LmGloDoOd9IBiWRN8SqcMybdSVSE\/yXInBMcIK2Uzc7SrTmXH4BIMje4aBJV2Euw9LrUJ7YgSAIIKrzTAGVNWXg3gQTonBsQ1UuQK19elIh4t+v\/bDZ2\/KQ33rrXBsVnSSahezHFx9vUCadLJGMPI8wXiYPr\/bOowFZXLCLNj8GnkvMTCVnIccGnPHF3HIZ3CVJpatgW9ZpP\/U6NtKIy36H1zWwKQNZN5bRmFI89e\/VI5XjeXyATsELrzEE85jpl89JYMetW7wJfetPhHuBhXherJPEJ0Mekeb8G14aWC0CreZYMwWNL38nw4dN0WMI\/wGmE0ak="
+
+
+
+GUID - GUID20201209115827================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "pEhEL6vblcnlu3xn1C+I46QP7h\/p3SRyfX3SRbfhigmWRkdWG1+OM3qs1GxnMYRv86aPdm76Fvb+\r\ncpXCZdmTwtA7LCdbJzDt5UiN+1BO9H6vb3ZzDYc2kvkJtgd+0LZtA9EWoCXCPfwKmrudvVtI\/mME\r\nzTOIVeozy0Le5YditdVjyQENqt8eMeBMk0NRyuzZnuSTT9MrpPeG1xP8BptkCi9B\/smcLyyTfeK6\r\nWlA5iGT5F8GQamcYzAU0bnJN2mb+ulc3PgMYCQtQ0c17Cjt2spqPabXeQYpXBMtXl8PjisVvo80y\r\nV9O4LXt7H5eShdhtC1zumd84iI65lQXz5Rei6Ta3ml98Fgk8t7i8OpNutG9SSYlSXdHs4Mku0Wx8\r\nD2r3EfTRb+QbsG7GUvvtoCZqKts4p\/RxbxTbLo\/18CBYGKPJtIi+f8hJfBzmEdHVjzZx9SX6A8+y\r\nzwPpAQZ4FyW0x1hIZnKU8oBYyVuQpYfGXWDl1582b3alk3yJSUXDkzek3heuVNJJnJvQ2PlXayhQ\r\nYafmuYbdRCSvDgakg+FSknehHjQcHRDjr+rClx0hN1Cf4sar7f9HBwNVUAnV+Skvr1gyjF\/M06t+\r\ndfBm\/8vhFsyO0SZ1mWuM\/8Z5rY8zIwPYi0i5WHkjjDdAbCUySOt41Emh1z77eMoAfVsStW0HK9Q="
+
+REQUEST DECRYPTED - {
+"REQID": "442258226",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201209115827",
+"UTRNUMBER":"034411649526",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+
+
+
+GUID - GUID20201209123542================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"0072104000302951","IFSC":"IBKL0000072","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Rajat Biala","REMARKS":"production","UNIQUEID":"20201209123542"}
+
+REQUEST ENCRYPTED - "qWlmSZVgMM2LlneJjIzpAXsxg66OfFRz6LQz\/Yfj2lfS\/krxkD2WezaIDMan+GosWNqoecP8jr1QJfQTlF8LqIoUKdUeGACW7X7bbQ5gIgT3QenMDaZn\/T2h\/1rNWKV6bYQXKsTVv85C8q+mb6nm84ugjoFo8bhOomG5lB8Y87ySutKNQ0g50pTzVVuxleZLv+6sNaijbennxELQqGvKyFZck7D0mEso39wUhheRqg9pTAeGo844Pk7Jg04El+vVeWWN2IkUYR3DWIcH7EDIHfISSQW478VgtDUsyE6Nx1pdpXCg2yRO4UEknamq+tUjT7vAinWx66hmXss2hVUZpxOdNprvQ3FJEY+wvrW4WGKX1Lr4Qp9tRjacPP0B7jNPQjEofmIlZWHHFmE\/wDQyfYQ4Wxie5AkvyGTWmJoF+069tKRZtYhOfYo3hKXeETB4n+G46L9olS4Q6HTTuMY7bqzViGnFTVdf996eslBgbOWw8sozKKvdmLuH832sDKodE2MM+lAiT90FBfxnQ15OJ2YcvxelhUmvd+E\/VYKSZLSfgF6hdweDO+ztz0XytrALBl6CRk2nTlt70qM6hgdHoFz\/R3MxH8FeKaZd1Ud8PdI+\/htXjBDnMOZ2T65HjZnYnDP7QUUOnBO3Fo5v8eiq8nrfJEvyaJ\/Ofdl2GRv8v9g="
+
+
+
+GUID - GUID20201209123542================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "hcdZ0MMb+ns7pfUZNCToeZne95sx7eF2yfMMVUUhva0duvVo3e7Kbzqj\/MG6tTu6GzNI6tQGmd8J\r\nZMAEPAG1E7XdOvldqEALyqrTy5g6XTp9sunpLZT9uDP2J5PZof45TBO+0yM2IhxzDhGgMxpi6Yea\r\nhRrAMYzExWGvL36ffzwR49e+qTNUJwYrIpnf+KVa76gP4OI8ZIzIBiK1VgOZyz1byXCLC9f0qfx5\r\nTFF\/qOi9ijgDsLVLoIjikPyqLPnM5O7ICQJtASqyxDDcUbe3aZ4qVW59aCMvm+Ctid\/VoWwx3xQ7\r\nikcpA+3RqZNaPLj3mb9c0gRyWIq3iPzmijfNp5\/pJhTlGEo6Nf3+mKYGY2e3GGrjZlIPLlGTuki6\r\nk+8lPNrfqfkyulbysph1xhmEkofqH4EVKaHp8zFmm4PPzuK\/wkPpKsQbWj4yehkOvXUBws6zZCc0\r\nOY1hXMWal24+nGH5M9eRsb4LFopz4HWHjho1JaPiJPpi2Omv17MuBAQViXNN5yG3\/eslCJQJl9W5\r\nXei3QdYMDScUq\/NfjcD1MVYQx7kfL4OM3l12BTOlzp+ThU79VGzacb\/XoHq0fnJBYt3q5mu8Af7\/\r\npzrSI+Y4B7VqHoe6FFfhh98YeJk2BCFV1lH7A+ttwYyVWedwXueXVpCpW3uO1JNMn4r6BqiaIlY="
+
+REQUEST DECRYPTED - {
+"REQID": "442292469",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201209123542",
+"UTRNUMBER":"034412831363",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+
+
+
+GUID - GUID20201211205829================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"12231140004770","IFSC":"hdfc0001223","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Ankit Jain","REMARKS":"production","UNIQUEID":"20201211205829"}
+
+REQUEST ENCRYPTED - "SrLl73BAXAj1LlECFHGGE+1421uOYqa4JQKGjZWVMd8UWK77PgmcsdfvWd6jCgX0iwLCUex2VO2GJbRVw+\/cMPQF5CPkPiitS6uDnWGwWz6F1JE7lZNtpk19pncdiycz3WR7EAK9E8dFga0FZzNsiO\/bi\/+2Mxs0D44WcrUyPvGsvbcdgNy2jzWcp5VYfPnhtDKxP4izxKHBwpDe9cqOAuy8pRFk\/4gUOFEmZwGRYdbwRdPm1ZQl2\/X+B0hDS8oXZjbIN3fvd3lJxcrAuXGB5T3j7\/Ol9VIs0jFnEbzw8zU4aa2w24WSr5q5XDTBlwyvj08yMmidDmg+Nt2PDP2PXb\/Tz0hK+GGy29Y3LHwTv0YgXA4SoFGp76cBp28ufLOj56J6OH0zlmXcO9UrVS6Vqto+DxbDy08gcuM7K+505BNboysogzyiw6Fd54h07uiaBHOldnpNzlDtck4bcA\/n8JZvLFb1l6Zu3wOiy4150etdpqoAeykX1IR\/Nn52aUqxQaY0CY+9mcPNQg9REuTIorWAkixlHNOJhyiJ3xKJVioQhlatsHygo8To0VnqN7itXanazLqxZaivNb86\/xFbMAP\/Hi7SF\/Pgnlnq8hsq+KfG+6QcTBZwM4ioSNj+vceYamxxr9uDKOUhQO41q3gRmi9g39pUTAwZscqQQ\/jPdXw="
+
+
+
+GUID - GUID20201211205829================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201211205841================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"12231140004770","IFSC":"hdfc0001223","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Ankit Jain","REMARKS":"production","UNIQUEID":"20201211205841"}
+
+REQUEST ENCRYPTED - "qVNBRss5ihu78JP6n8pFE0Bwi2qKFWboMjBOyC\/0iW4pM4epan0YzOY95qUEueukzkTPzIzHwKp4MdO7wOb+fyUdrrD6g3H15UpdVAcOm4UryjnoaoObGMDnP3hWrdETFKrw33Hk8\/F1ex6OAye9Y4FZ6dpWKUd4V5QvXeSP9Pasfd\/FbjXQ+bdRXshNOuqjEXEEB+h6ZX3kUjVsZV9+8oGVmaf0OQh5H4JvrfQKFthpPs7huSG9vbM2E\/BXmVAi1iwYO8Rz7ku6BM4Q2Hd8Kpbf843UyQYFykOKOtVS8NkegpJM6mU98iq8aRn8ikPVval0K80un53ei\/Rtg7QYw2zAQYhguvdRGqOXzhl8cHtOnuEhqLeDdL3Qzs30ABp2fOk91edmIOBRn0wqLpI8uhaqh+YIZjpQBtt4MEzIn1zQmglktf9djIsmef1vgsuQWsU3q3RY8FkhfzUceRsGyHws6dVRdzfRjXrMGVt\/vuQoJUAJy4yJWtVGiXm9qGpcbD+98nd2T7BsQPv8u3qjOaF94GDkHgOXgVHVNRdvk\/lNqwE0uZWFwPOacLpfUHW9A1LdcBF2cRWh5jEqHcWbKi1cRZuh6uzFCLASdMsmlEyloYdSzTCTCl6Udz+OSGZH86DTXz\/ebodW2hq6HgSrmUnz5Vly8tr7iFStb1WutK4="
+
+
+
+GUID - GUID20201211205841================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "{\n\"success\":false,\n\"response\":401,\n\"message\":\"Unauthorized\"\n}"
+
+REQUEST DECRYPTED - 
+
+
+
+GUID - GUID20201211205856================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"12231140004770","IFSC":"hdfc0001223","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Ankit Jain","REMARKS":"production","UNIQUEID":"20201211205856"}
+
+REQUEST ENCRYPTED - "OusteBnyzmK5d6cWO6CnFFkIPEuFrcc0UmOSPX3+WOaIPPgi11oOpp+kdWnurmQBgvmL7zJMaOIHdQsfgrBRvh8G2p6Wa3Nsotv35+qm7O7Up1ZPpPgX1doxPBiNUfjuUBgCHVrE1Ev0NWOb8Aq\/OGDFgr4CuDVmxgyZkH4YQEgLl9TcNtdniiU7g8MhrbtE44gdTipSCq7kpg\/WA1jhv4zF4\/TixHSVRUW3lE2xx3hpzDuzaYnNwm7bCnzrmNoqco+shwmnDwZlAm4HaTiLH93wFaJWtVnJiU4Lssw3XhIvDgbTjnTGUqG5gbvWz34gw9zT4jqh9fiS4ZrqyQIDTYOaqMQY2BTBq5kqTlf7N1fPqrRce5vD7Xw0y5IK2P8XpNs9PkL4kBglOuKkjyeQ9QzVhwTWjSRIz77naMUFeHxku8r0CMPxLnOwfkpARJ6z9pz9SszTvSBenmomCx2sKN6PrMcIQtgEz9hH7BFMVjxygQEQE0NFeQMBlmFYD39oiEHjtU9K5pu1LZ0kvE6n9XK0RaIKmhxWaQT8iSdRXuLARUcnpCOgOXZwD5rBgWuLkCIk5TPJRJawW1zqV48Jaf7tt2lIISWx+VDLmWV8DDsLDOmc2YbjZktrmEyWCT\/4KZ8xSMBvuKXNODljsNlt20XaqPgUg6q\/lsqwhlR2NN8="
+
+
+
+GUID - GUID20201211205856================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "HRdg9Gn1yiPKnnsKWOSFRV9EJmlcz79bysj2fyfO+iVlCxnOaal\/LTvOUj3U2rk2iufOW5gAMrOx\r\nEMyupEjyS\/7T0EE6\/zT0JukW07e6CeOJUlgjm2Pa8XS0hDGSrTf1oD0Yw3gm2vDhgs1trj\/G8+2f\r\nPSF5vQZlkULqMkzFMw7JhdyjqnBrf5gm3N0Agotw4e1gThQK3DaF+nP+XGuoEVeIw1nuUWu2irdj\r\nIfuf9xYgemWeqoAchOGxOFBe3gMT6QgRIE+6+FXse1SASG7SP0Bc6cMMJqCWZfsC93Zx0Pl6sUQa\r\nOzH\/NryhSs1ZK68nrgbVLK+hfFT+FfewpwUhSrfBb9sXI7qtRa9X\/8n4GOjJJ\/33R5Hl1uTUDEfF\r\nt6ZIp5\/pfmJ8iK1pRmAd9FxCj267FLV95kPbBrRA7VHNDKI48QyEpF0ICs1Jxrff1A6noO1nh+WR\r\nLJmvCOUI9eYmtjV92wzKaNdYHmJXV6ERwfmUMIrt873pUb66SsHmV6vm7MTbHUZ5lyOK0c3FfTM\/\r\ns4bBkRpAFLYhjh0xULkQ0ek5ejPufsPs12WkL0tOqCWjC\/TFJUqJ1Xi8nwT\/u+Nl0X1MskGWZ5FV\r\nr+5qYycEUZdf\/F8Ub+J5+2ZyncrdRolWIfSvqu9Yni3i6xozIYvTCD57w2I\/Ro1jDJHH65QWd5U="
+
+REQUEST DECRYPTED - {
+"REQID": "444208660",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201211205856",
+"UTRNUMBER":"034620838205",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+
+
+
+GUID - GUID20201216231100================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"12231140004770","IFSC":"hdfc0001223","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Ankit Jain","REMARKS":"production","UNIQUEID":"20201216231100"}
+
+REQUEST ENCRYPTED - "FXQba+MIYWD7xDV2XA9+7AJhk0RL\/O5Nj+vQqbsL\/7esUxDxJH2tr2gbe\/e\/VVJjzlTy0O1QUh21b2XYzckqnEexLUY0FehfTO9UKqtYlAjtm+cEQyXjsPf5xGlTnPNsNuJoEhNIfFGtnXbOPFyh2xVkhaF4U7FSI1iUfagVUdL5gYFQWoAECI7c44LfwdzW6uNsKsul3N88TxK78F62Zjc\/lJSl\/arJA7xDzmfYnGmp\/7B5oUlweqv5Jsb2em1ddDOTqCONb9HDNcee962y7qXhRuoFd5T0gQGAeYVMjLu\/VqgcPi6DxSddZMP0EqGSK926s3BVSC3XljmnpfOPuNlEKWbt61siAtXg6LuqLD562Vn4NKtro\/3NPenhePsLLe8St6F5ulUdfPPndLjf\/UYXotC2uKnaU4QzX6XsNq4mJUVepjSCP95uN2cipBeEoK1DyTOALjnh0AjGodxclnm5i3lxd5QOlpjvHHXGmznS\/XLTDQoA\/tWwuJxwOblANcO5WKEYW+ahDyjHtCSuqHlkVs5REHB\/voWr60ynHbFFEaTY+brxtVnjlj\/KF616gEpsh7lcgAkAJw5GDhZkYiSjCkj\/IDba4LRGsbOmBN8edkq9JHL4JBJ5Zv6C5p8IfWAe9wR9zF+sMkg3xMyGGdO997opVabdOn4lIqoc7GU="
+
+
+
+GUID - GUID20201216231100================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "Qw4eOSpVRyILVSAvJ4gBdtRga3li7k9V+EfOSDy4e5dsCrOn2igSeoFLZBlIHGLvTFCIdLCX\/8kz\r\nIJG58jBmRbndQ+LuY9tmIS7jwBg11u9rkH8mLOhpQO2gjN9eUTVSk4QqLsLnJfQLlO6tV6kTzzIE\r\nKBuOPsSs4BZH5y7eQuTLtNhyAC\/rP0F7+j50hajwyrq4gArY2aOYZwNVnVS7lSJANa+ht\/zS2Bhw\r\nPAeKIfhZbX1oJyn+lZcaAot0Lv3kHiP+14sF\/4lCYQLcPkz\/VR73hPiejKCtez\/Vj7J7r3ygkTIF\r\nRaQEjO31qlbnUWLaVY02go5bLxZu8sHsZCPCMtiDKScI+1bilBRK876l2qxIvWcnm\/\/j5ZG2UfBn\r\n0WhWwplHoNjjIJFMTHO4yz6kPg5BJ55F46h\/w4lXdHmqOPGtjwPkZ3AhK5dOJ\/iocAJ01HDZOhKL\r\nSvO22y2yEuFe2Ex0FpGf7X2jJA\/EKUEUPqf2cJZ\/m7BAONHG8YMfi9bT533GT9cn9FUd\/CqnEkIM\r\niQMvo1P9he6yneLfsY+wQChRteRqaPkYbg20rRVLJPY4+Lusn\/Jl3h1AhgzgxJPvYxhPyCLP5aRy\r\nlrjRVrPnuwUEZw5n7OiNI1YfyJ1RVyArQqHoO0\/PcZh0yb2v2gbTPNmb0LeuaLi9xWpEUBh25kk="
+
+REQUEST DECRYPTED - {
+"REQID": "447010637",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201216231100",
+"UTRNUMBER":"035123911762",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+
+
+
+GUID - GUID20201220190812================================================================
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+HEADER - ["Content-type: text\/plain","apikey:0786f0cb20cd4e42b3d169fb9e5a13be"]
+
+REQUEST - {"CORPID":"ARIHANTT30122017","USERID":"ARIHANTJ","AGGRNAME":"ARIHANT","AGGRID":"OTOE0052","URN":"SR192922492","DEBITACC":"349005000264","CREDITACC":"12231140004770","IFSC":"HDFC0001223","AMOUNT":"1.00","CURRENCY":"INR","TXNTYPE":"IFS","PAYEENAME":"Ankit jain","REMARKS":"production","UNIQUEID":"20201220190812"}
+
+REQUEST ENCRYPTED - "AwLV7pJVWXDsOmP5XgchRuNoeOLBtDce+pnzegbGJbybh3DOdEl6KSS+ltUnBtGkxHoOsKFLvxfBLOvrdVE+GYZtjrlDS6xsJvasZu712iuDnK3UM\/gSwxSmBL9qtCdqYS8gvjTfPF7nnahEdiC+meHkh28XhPyDDRXx27c1ebqr7ZbVuAfDPtIACxkJuGubdv9YFxeKGHZai95R3oi\/QU7lBvY9Kh4W9iHwUQQ2slOlwL8Z6oCIdpbIOncE5KQxbfQvwI9W2UHsTpMH8KMZIhFYkKL0yff5geX5T691uzQvaXYP9VsbOVfWGwvF83JWxt5svSkXiUt2uztWttutPlEYseB6Y5+rMTlaVWjQUWDwoL\/EQe8NcLGGPrniWtlw1ylSxUPkQJmJTA3eSkA++PXtF+QtPp+iwEpQIwVQ+YTCzhmZcBNFuxoZNZwKiOuVxmIORWw6KdDNMiPq1AC+EJZKSeLOT6lqtGRtId3+RDy4rZCAn4zdJpc2OF0WJww6lZMdWADI1rvbeyT4LkU577PzvVKD0aqlaS0YwT\/StlN5XM\/zzvIg6jcwRkJQTWms4isg0EErAQLv2gWccIGXXQ\/wG7r5Ymh+0Z2QLrDHST2EDV1fsUJFDMCokkXmVgonI7WjHagQLrj7AFdCeBbOhc8F8iGMrHCJE+we+XD4Q08="
+
+
+
+GUID - GUID20201220190812================================================================ 
+URL - https://api.icicibank.com:8443/api/Corporate/CIB/v1/Transaction
+
+RESPONSE - "LR7yEcNR\/3nDfUhUN15oR3i4EdAyPF5yfGHWevcAnA8XruJZva7Eg6E5EUjmUE+KRgZG\/4s1n3hu\r\nJhqMlCmTUTpUOLNyCddWZOZO+ZoRhbjEfQ6uqTQse7nYgqrXR4O0lD1npKTFIiT00nuNKtanhQBn\r\nmmzPu3SPqbPXCEjszN7qI3NJ+vH3S+zVv8ZTxiQUJ+V0YVi5OSQzekaI1kweUxI8CbGhwpsri9zT\r\n7O+iEStMzfeo+ylDmOn8YOO5peUNJW3o0OMtd\/nZbqrMRgkl+UcpZ5\/ossnz8jiN+aIrymPDL2Of\r\nsgzDxdMc7pUeiJUl\/i7m6i8qb\/RbdpkIJXyeRAgpHkT8Xj\/GF4cwYAsptHsVgeVodLEUxeaC6r6b\r\nx0XXaqvi1CpjSe7HTtDQdOaD8NkDb1Tlh5e9IvLz3hL4yNHb8+7yG3zWqLb8gNBlmUjBO+g0rSr5\r\nAMO4ZuoQgF6omxxWVEsJ9jK8QxgXBtJYICWuQO94C50MJLP+OXt65\/PW\/IByy6U5+7CGio8EERdO\r\nyvU3AYKZ6DJOdb9dVFd6h2nt0xRwqHlxtzuAzmZfklKVkjFVI+CqhpNdB3Tz90150cX+576WuQ23\r\nqPstuc5hgmDab7Lb0wnGV\/a9Be3qQDZjIKWNaKrvesM7bSa7eSEGmM3a2Fk\/waEdB5DWA+3Kh+c="
+
+REQUEST DECRYPTED - {
+"REQID": "448960785",
+"STATUS": "SUCCESS",
+"UNIQUEID": "20201220190812",
+"UTRNUMBER":"035519255112",
+"RESPONSE": "SUCCESS",
+"URN":"SR192922492"
+}
+

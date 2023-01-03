@@ -1,0 +1,57 @@
+RewriteEngine On
+
+ErrorDocument 403 /error.php
+ErrorDocument 404 /error.php
+ErrorDocument 500 /error.php
+
+#For Rewrite url of dynamic page
+RewriteRule ^page/([^/]*)/$ /zxvajra/page.php?id=$1 [L]
+RewriteRule ^section/([^/]*)/$ /zxvajra/section.php?id=$1 [L]
+RewriteRule ^section/([^/]*)/([^/]*)/([^/]*)/$ /zxvajra/section.php?id=$1&pagesize=$2&page=$3 [L]
+RewriteRule ^section/([^/]*)/([^/]*)/$ /zxvajra/section-detail.php?pageid=$1&id=$2 [L]
+RewriteRule ^products/([^/]*)/$ /zxvajra/product-detail.php?id=$1 [L]
+RewriteRule ^products/([^/]*)/([^/]*)/$ /zxvajra/product-detail.php?id=$1&id2=$2 [L]
+
+
+#For Remove .php and add slash at the end of URL
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/$ $1.php
+RewriteRule ^([^/]+)/([^/]+)/$ /$1/$2.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !(\.[a-zA-Z0-9]{1,5}|/)$
+RewriteRule (.*)$ /$1/ [R=301,L]
+
+#Block all HTTP methods except GET and POST
+<LimitExcept GET POST>
+deny from all
+</LimitExcept>
+
+#Clickjacking: X-Frame-Options header missing
+Header set X-Frame-Options SAMEORIGIN
+
+#Content-Security-Policy methods
+Header set X-Content-Security-Policy "allow 'self'; media-src *; img-src *; script-src 'self' https://ajax.googleapis.com; style-src 'self';" 
+
+#prevent mime based attacks
+Header set X-Content-Type-Options "nosniff"
+
+#x-xss-protection header
+Header set X-XSS-Protection "1; mode=block"
+
+#TRACE method
+RewriteCond %{REQUEST_METHOD} ^(TRACE|TRACK|OPTIONS)
+RewriteRule .* - [F]
+
+AddCharset UTF-8 .html .php
+
+<IfModule php5_module>
+    php_flag session.cookie_httponly on
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php73” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php73 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
